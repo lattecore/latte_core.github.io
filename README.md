@@ -42,7 +42,7 @@ Kun Wang, Zimu Zhou, Zhenjiang Li
 
 **ACM MobiCom, 2024**
 
-<a href="">[pdf]</a>  <a href="https://github.com/lattecore/LATTE">[code]</a>  <a href="./README.assets/LATTE_slides.pdf">[slides]</a>
+<a href="https://www.cs.cityu.edu.hk/~zhenjili/2024-MobiCom-LATTE.pdf">[pdf]</a>  <a href="https://github.com/lattecore/LATTE">[code]</a>  <a href="./README.assets/LATTE_slides.pdf">[slides]</a>
 
 ## Citation
 
